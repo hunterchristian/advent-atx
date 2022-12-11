@@ -26,6 +26,8 @@
 		try editing <strong>src/routes/index.svelte</strong>
 	</h2>
 
+  <div>This is some text. Howdy there!</div>
+
 	<Counter />
 </section>
 
